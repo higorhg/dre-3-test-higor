@@ -6,6 +6,9 @@
   />
 </picture>
 
+
+Este projeto oferece um ambiente Docker Compose para o Apache Airflow, priorizando a execução da DAG "Smooth Operator", que, ao ser ativada, registra nos logs o link do YouTube da música "Smooth Operator" de Sade.
+
 ## Pré-requisitos
 
 Certifique-se de ter o Docker e o Docker Compose instalados em seu sistema antes de prosseguir.
